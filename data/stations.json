@@ -4,6 +4,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport",
     "busInterchange": true,
     "railInterchange": true
@@ -13,6 +14,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Airport"
   },
   "benchill": {
@@ -20,6 +22,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport"
   },
   "barlowMoorRoad": {
@@ -28,6 +31,7 @@
       3,
       2
     ],
+    "region": "west",
     "line": "Airport"
   },
   "crossacres": {
@@ -35,6 +39,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport"
   },
   "martinscroft": {
@@ -42,6 +47,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport"
   },
   "moorRoad": {
@@ -49,6 +55,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Airport"
   },
   "northernMoor": {
@@ -56,6 +63,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Airport"
   },
   "peelHall": {
@@ -63,6 +71,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport"
   },
   "robinswoodRoad": {
@@ -70,6 +79,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport"
   },
   "roundthorn": {
@@ -78,6 +88,7 @@
       4,
       3
     ],
+    "region": "west",
     "line": "Airport"
   },
   "shadowmoss": {
@@ -85,6 +96,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport"
   },
   "saleWaterPark": {
@@ -92,6 +104,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Airport",
     "parkAndRide": 300
   },
@@ -100,6 +113,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Airport"
   },
   "wythenshaweTownCentre": {
@@ -107,6 +121,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Airport",
     "busInterchange": true
   },
@@ -115,6 +130,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Altrincham",
     "busInterchange": true,
     "railInterchange": true,
@@ -126,6 +142,7 @@
       4,
       3
     ],
+    "region": "west",
     "line": "Altrincham",
     "parkAndRide": 108
   },
@@ -134,6 +151,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Altrincham"
   },
   "deansgateCastlefield": {
@@ -141,6 +159,7 @@
     "zone": [
       1
     ],
+    "region": "west",
     "line": "Altrincham",
     "railInterchange": true
   },
@@ -149,6 +168,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Altrincham",
     "railInterchange": true,
     "parkAndRide": 81
@@ -158,6 +178,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Altrincham"
   },
   "sale": {
@@ -165,6 +186,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "Altrincham",
     "cycleHub": true,
     "carPark": true
@@ -174,6 +196,7 @@
     "zone": [
       1
     ],
+    "region": "east",
     "line": "Altrincham",
     "busInterchange": true
   },
@@ -183,6 +206,7 @@
       3,
       2
     ],
+    "region": "west",
     "line": "Altrincham"
   },
   "traffordBar": {
@@ -190,6 +214,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Altrincham"
   },
   "timperley": {
@@ -197,6 +222,7 @@
     "zone": [
       4
     ],
+    "region": "west",
     "line": "Altrincham"
   },
   "victoria": {
@@ -204,6 +230,7 @@
     "zone": [
       1
     ],
+    "region": "east",
     "line": "Altrincham",
     "railInterchange": true
   },
@@ -212,6 +239,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "Bury"
   },
   "bowkerVale": {
@@ -220,6 +248,7 @@
       3,
       2
     ],
+    "region": "east",
     "line": "Bury"
   },
   "bessesOThBarn": {
@@ -227,6 +256,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Bury",
     "carPark": true
   },
@@ -235,6 +265,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Bury",
     "parkAndRide": 100,
     "busInterchange": true,
@@ -245,6 +276,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "Bury",
     "carPark": true
   },
@@ -253,6 +285,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Bury",
     "carPark": true
   },
@@ -261,6 +294,7 @@
     "zone": [
       1
     ],
+    "region": "east",
     "line": "Bury"
   },
   "piccadillyGardens": {
@@ -268,6 +302,7 @@
     "zone": [
       1
     ],
+    "region": "east",
     "line": "Bury",
     "cycleHub": true,
     "busInterchange": true
@@ -277,6 +312,7 @@
     "zone": [
       1
     ],
+    "region": "east",
     "line": "Bury",
     "railInterchange": true
   },
@@ -285,6 +321,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Bury",
     "carPark": true
   },
@@ -293,6 +330,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "Bury"
   },
   "radcliffe": {
@@ -300,6 +338,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Bury",
     "parkAndRide": 369
   },
@@ -309,6 +348,7 @@
       4,
       3
     ],
+    "region": "east",
     "line": "Bury",
     "parkAndRide": 216
   },
@@ -317,6 +357,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "East Manchester",
     "cycleHub": true,
     "busInterchange": true,
@@ -327,6 +368,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "East Manchester",
     "parkAndRide": 200
   },
@@ -335,6 +377,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "East Manchester",
     "parkAndRide": 195
   },
@@ -343,6 +386,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "cemeteryRoad": {
@@ -350,6 +394,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "claytonHall": {
@@ -357,6 +402,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "droylsden": {
@@ -364,6 +410,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "edgeLane": {
@@ -372,6 +419,7 @@
       3,
       2
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "holtTown": {
@@ -379,6 +427,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "newIslington": {
@@ -386,6 +435,7 @@
     "zone": [
       1
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "etihadCampus": {
@@ -393,6 +443,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "velopark": {
@@ -400,6 +451,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "East Manchester"
   },
   "anchorage": {
@@ -407,6 +459,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "broadway": {
@@ -414,6 +467,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "cornbrook": {
@@ -422,6 +476,7 @@
       2,
       1
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "eccles": {
@@ -429,6 +484,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles",
     "busInterchange": true,
     "cycleInterchange": true
@@ -438,6 +494,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "exchangeSquare": {
@@ -445,6 +502,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "Eccles"
   },
   "harbourCity": {
@@ -452,6 +510,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "ladywell": {
@@ -459,6 +518,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles",
     "parkAndRide": 250
   },
@@ -467,6 +527,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "mediaCityUk": {
@@ -474,6 +535,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles",
     "cycleHub": true
   },
@@ -482,6 +544,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "salfordQuays": {
@@ -489,6 +552,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "stPetersSquare": {
@@ -496,6 +560,7 @@
     "zone": [
       1
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "weaste": {
@@ -503,6 +568,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "Eccles"
   },
   "centralPark": {
@@ -510,13 +576,16 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "derker": {
     "service": ["pink", "gray"],
     "zone": [
-      4
+      4,
+      3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "parkAndRide": 251
   },
@@ -525,6 +594,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "freehold": {
@@ -532,6 +602,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "hollinwood": {
@@ -539,6 +610,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "cycleHub": true,
     "parkAndRide": 190
@@ -548,6 +620,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "milnrow": {
@@ -555,6 +628,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "carPark": true
   },
@@ -563,6 +637,7 @@
     "zone": [
       2
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "newbold": {
@@ -570,6 +645,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "newhey": {
@@ -577,6 +653,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "newtonHeathAndMoston": {
@@ -585,6 +662,7 @@
       3,
       2
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "oldhamCentral": {
@@ -592,6 +670,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "oldhamKingStreet": {
@@ -599,6 +678,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "oldhamMumps": {
@@ -606,6 +686,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "busInterchange": true,
     "cycleHub": true,
@@ -616,6 +697,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "parkAndRide": 217,
     "cycleHub": true,
@@ -626,6 +708,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "busInterchange": true
   },
@@ -634,6 +717,7 @@
     "zone": [
       4
     ],
+    "region": "east",
     "line": "Oldham & Rochdale",
     "parkAndRide": 90
   },
@@ -642,6 +726,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "westwood": {
@@ -649,6 +734,7 @@
     "zone": [
       3
     ],
+    "region": "east",
     "line": "Oldham & Rochdale"
   },
   "burtonRoad": {
@@ -656,6 +742,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "South Manchester"
   },
   "chorlton": {
@@ -663,6 +750,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "South Manchester"
   },
   "didsburyVillage": {
@@ -670,6 +758,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "South Manchester"
   },
   "eastDidsbury": {
@@ -677,6 +766,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "South Manchester",
     "railInterchange": true,
     "cycleHub": true,
@@ -687,6 +777,7 @@
     "zone": [
       2
     ],
+    "region": "west",
     "line": "South Manchester"
   },
   "stWerburghsRoad": {
@@ -695,6 +786,7 @@
       3,
       2
     ],
+    "region": "west",
     "line": "South Manchester"
   },
   "westDidsbury": {
@@ -702,6 +794,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "South Manchester"
   },
   "withington": {
@@ -709,6 +802,7 @@
     "zone": [
       3
     ],
+    "region": "west",
     "line": "South Manchester"
   }
 }
