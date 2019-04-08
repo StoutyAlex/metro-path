@@ -1,0 +1,714 @@
+{
+  "manchesterAirport": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport",
+    "busInterchange": true,
+    "railInterchange": true
+  },
+  "baguley": {
+    "service": ["blue"],
+    "zone": [
+      3
+    ],
+    "line": "Airport"
+  },
+  "benchill": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport"
+  },
+  "barlowMoorRoad": {
+    "service": ["blue"],
+    "zone": [
+      3,
+      2
+    ],
+    "line": "Airport"
+  },
+  "crossacres": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport"
+  },
+  "martinscroft": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport"
+  },
+  "moorRoad": {
+    "service": ["blue"],
+    "zone": [
+      3
+    ],
+    "line": "Airport"
+  },
+  "northernMoor": {
+    "service": ["blue"],
+    "zone": [
+      3
+    ],
+    "line": "Airport"
+  },
+  "peelHall": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport"
+  },
+  "robinswoodRoad": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport"
+  },
+  "roundthorn": {
+    "service": ["blue"],
+    "zone": [
+      4,
+      3
+    ],
+    "line": "Airport"
+  },
+  "shadowmoss": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport"
+  },
+  "saleWaterPark": {
+    "service": ["blue"],
+    "zone": [
+      3
+    ],
+    "line": "Airport",
+    "parkAndRide": 300
+  },
+  "wythenshawePark": {
+    "service": ["blue"],
+    "zone": [
+      3
+    ],
+    "line": "Airport"
+  },
+  "wythenshaweTownCentre": {
+    "service": ["blue"],
+    "zone": [
+      4
+    ],
+    "line": "Airport",
+    "busInterchange": true
+  },
+  "altrincham": {
+    "service": ["purple", "green"],
+    "zone": [
+      4
+    ],
+    "line": "Altrincham",
+    "busInterchange": true,
+    "railInterchange": true,
+    "cycleHub": true
+  },
+  "brooklands": {
+    "service": ["purple", "green"],
+    "zone": [
+      4,
+      3
+    ],
+    "line": "Altrincham",
+    "parkAndRide": 108
+  },
+  "daneRoad": {
+    "service": ["purple", "green"],
+    "zone": [
+      3
+    ],
+    "line": "Altrincham"
+  },
+  "deansgateCastlefield": {
+    "service": ["blue", "pink", "gray", "purple", "green", "orange", "cyan"],
+    "zone": [
+      1
+    ],
+    "line": "Altrincham",
+    "railInterchange": true
+  },
+  "navigationRoad": {
+    "service": ["purple", "green"],
+    "zone": [
+      4
+    ],
+    "line": "Altrincham",
+    "railInterchange": true,
+    "parkAndRide": 81
+  },
+  "oldTrafford": {
+    "service": ["purple", "green"],
+    "zone": [
+      2
+    ],
+    "line": "Altrincham"
+  },
+  "sale": {
+    "service": ["purple", "green"],
+    "zone": [
+      3
+    ],
+    "line": "Altrincham",
+    "cycleHub": true,
+    "carPark": true
+  },
+  "shudehill": {
+    "service": ["blue", "green", "yellow"],
+    "zone": [
+      1
+    ],
+    "line": "Altrincham",
+    "busInterchange": true
+  },
+  "stretford": {
+    "service": ["purple", "green"],
+    "zone": [
+      3,
+      2
+    ],
+    "line": "Altrincham"
+  },
+  "traffordBar": {
+    "service": ["blue", "pink", "gray", "purple", "green"],
+    "zone": [
+      2
+    ],
+    "line": "Altrincham"
+  },
+  "timperley": {
+    "service": ["purple", "green"],
+    "zone": [
+      4
+    ],
+    "line": "Altrincham"
+  },
+  "victoria": {
+    "service": ["blue", "green", "yellow", "gray", "pink"],
+    "zone": [
+      1
+    ],
+    "line": "Altrincham",
+    "railInterchange": true
+  },
+  "abrahamMoss": {
+    "service": ["green", "yellow"],
+    "zone": [
+      2
+    ],
+    "line": "Bury"
+  },
+  "bowkerVale": {
+    "service": ["green", "yellow"],
+    "zone": [
+      3,
+      2
+    ],
+    "line": "Bury"
+  },
+  "bessesOThBarn": {
+    "service": ["green", "yellow"],
+    "zone": [
+      3
+    ],
+    "line": "Bury",
+    "carPark": true
+  },
+  "bury": {
+    "service": ["green", "yellow"],
+    "zone": [
+      4
+    ],
+    "line": "Bury",
+    "parkAndRide": 100,
+    "busInterchange": true,
+    "cycleHub": true
+  },
+  "crumpsall": {
+    "service": ["green", "yellow"],
+    "zone": [
+      2
+    ],
+    "line": "Bury",
+    "carPark": true
+  },
+  "heatonPark": {
+    "service": ["green", "yellow"],
+    "zone": [
+      3
+    ],
+    "line": "Bury",
+    "carPark": true
+  },
+  "marketStreet": {
+    "service": ["blue", "green", "yellow"],
+    "zone": [
+      1
+    ],
+    "line": "Bury"
+  },
+  "piccadillyGardens": {
+    "service": ["purple", "cyan", "yellow", "orange"],
+    "zone": [
+      1
+    ],
+    "line": "Bury",
+    "cycleHub": true,
+    "busInterchange": true
+  },
+  "piccadilly": {
+    "service": ["purple", "cyan", "yellow", "orange"],
+    "zone": [
+      1
+    ],
+    "line": "Bury",
+    "railInterchange": true
+  },
+  "prestwich": {
+    "service": ["green", "yellow"],
+    "zone": [
+      3
+    ],
+    "line": "Bury",
+    "carPark": true
+  },
+  "queensRoad": {
+    "service": ["green", "yellow"],
+    "zone": [
+      2
+    ],
+    "line": "Bury"
+  },
+  "radcliffe": {
+    "service": ["green", "yellow"],
+    "zone": [
+      4
+    ],
+    "line": "Bury",
+    "parkAndRide": 369
+  },
+  "whitefield": {
+    "service": ["green", "yellow"],
+    "zone": [
+      4,
+      3
+    ],
+    "line": "Bury",
+    "parkAndRide": 216
+  },
+  "ashtonUnderLyne": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3
+    ],
+    "line": "East Manchester",
+    "cycleHub": true,
+    "busInterchange": true,
+    "railInterchange": true
+  },
+  "ashtonMoss": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3
+    ],
+    "line": "East Manchester",
+    "parkAndRide": 200
+  },
+  "ashtonWest": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3
+    ],
+    "line": "East Manchester",
+    "parkAndRide": 195
+  },
+  "audenshaw": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3
+    ],
+    "line": "East Manchester"
+  },
+  "cemeteryRoad": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3
+    ],
+    "line": "East Manchester"
+  },
+  "claytonHall": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "East Manchester"
+  },
+  "droylsden": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3
+    ],
+    "line": "East Manchester"
+  },
+  "edgeLane": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      3,
+      2
+    ],
+    "line": "East Manchester"
+  },
+  "holtTown": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "East Manchester"
+  },
+  "newIslington": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      1
+    ],
+    "line": "East Manchester"
+  },
+  "etihadCampus": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "East Manchester"
+  },
+  "velopark": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "East Manchester"
+  },
+  "anchorage": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "broadway": {
+    "service": ["cyan"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "cornbrook": {
+    "service": ["blue", "pink", "gray", "purple", "green", "orange", "cyan"],
+    "zone": [
+      2,
+      1
+    ],
+    "line": "Eccles"
+  },
+  "eccles": {
+    "service": ["cyan"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles",
+    "busInterchange": true,
+    "cycleInterchange": true
+  },
+  "exchangeQuay": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "exchangeSquare": {
+    "service": ["pink", "gray"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "harbourCity": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "ladywell": {
+    "service": ["cyan"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles",
+    "parkAndRide": 250
+  },
+  "langworthy": {
+    "service": ["cyan"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "mediaCityUk": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles",
+    "cycleHub": true
+  },
+  "pomona": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "salfordQuays": {
+    "service": ["cyan", "orange"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "stPetersSquare": {
+    "service": ["blue", "pink", "gray", "purple", "green", "orange", "cyan"],
+    "zone": [
+      1
+    ],
+    "line": "Eccles"
+  },
+  "weaste": {
+    "service": ["cyan"],
+    "zone": [
+      2
+    ],
+    "line": "Eccles"
+  },
+  "centralPark": {
+    "service": ["pink", "gray"],
+    "zone": [
+      2
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "derker": {
+    "service": ["pink", "gray"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale",
+    "parkAndRide": 251
+  },
+  "failsworth": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "freehold": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "hollinwood": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale",
+    "cycleHub": true,
+    "parkAndRide": 190
+  },
+  "kingswayBusinessPark": {
+    "service": ["pink"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "milnrow": {
+    "service": ["pink"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale",
+    "carPark": true
+  },
+  "monsall": {
+    "service": ["pink", "gray"],
+    "zone": [
+      2
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "newbold": {
+    "service": ["pink"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "newhey": {
+    "service": ["pink"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "newtonHeathAndMoston": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3,
+      2
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "oldhamCentral": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "oldhamKingStreet": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "oldhamMumps": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale",
+    "busInterchange": true,
+    "cycleHub": true,
+    "parkAndRide": 254
+  },
+  "rochdaleRailwayStation": {
+    "service": ["pink"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale",
+    "parkAndRide": 217,
+    "cycleHub": true,
+    "railInterchange": true
+  },
+  "rochdaleTownCentre": {
+    "service": ["pink"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale",
+    "busInterchange": true
+  },
+  "shawAndCrompton": {
+    "service": ["pink", "gray"],
+    "zone": [
+      4
+    ],
+    "line": "Oldham & Rochdale",
+    "parkAndRide": 90
+  },
+  "southChadderton": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "westwood": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "Oldham & Rochdale"
+  },
+  "burtonRoad": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "South Manchester"
+  },
+  "chorlton": {
+    "service": ["blue", "pink", "gray"],
+    "zone": [
+      2
+    ],
+    "line": "South Manchester"
+  },
+  "didsburyVillage": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "South Manchester"
+  },
+  "eastDidsbury": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "South Manchester",
+    "railInterchange": true,
+    "cycleHub": true,
+    "parkAndRide": 302
+  },
+  "firswood": {
+    "service": ["blue", "pink", "gray"],
+    "zone": [
+      2
+    ],
+    "line": "South Manchester"
+  },
+  "stWerburghsRoad": {
+    "service": ["blue", "pink", "gray"],
+    "zone": [
+      3,
+      2
+    ],
+    "line": "South Manchester"
+  },
+  "westDidsbury": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "South Manchester"
+  },
+  "withington": {
+    "service": ["pink", "gray"],
+    "zone": [
+      3
+    ],
+    "line": "South Manchester"
+  }
+}

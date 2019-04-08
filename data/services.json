@@ -1,0 +1,34 @@
+{
+  "green": {
+    "start": "Altrincham",
+    "end": "Bury"
+  },
+  "cyan": {
+    "start": "Eccles",
+    "end": "Ashton-under-lyne"
+  },
+  "orange": {
+    "start": "MediaCityUK",
+    "end": "Ashton-under-lyne"
+  },
+  "purple": {
+    "start": "Altrincham",
+    "end": "Piccadilly"
+  },
+  "pink": {
+    "start": "East Didsbury",
+    "end": "Rochdale Town Centre"
+  },
+  "gray": {
+    "start": "East Didsbury",
+    "end": "Shaw and Crompton"
+  },
+  "blue": {
+    "start": "Manchester Airport",
+    "end": "Victoria"
+  },
+  "yellow": {
+    "start": "Piccadilly",
+    "end": "Bury"
+  }
+}
