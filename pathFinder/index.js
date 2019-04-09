@@ -1,7 +1,18 @@
 const _ = require('lodash');
 
-const stations = require('../data/stations.json');
-const services = require('../data/services.json');
+const stations = require('../data/stations');
+const services = require('../data/services');
+
+const changingStops = [
+  "cornbrook",
+  "stPetersSquare",
+  "deansgateCastlefield",
+  "piccadilly",
+  "piccadillyGardens",
+  "stWerburghsRoad",
+  "traffordBar",
+  "victoria"
+];
 
 const intersection = (setA, setB) => {
   let _intersection = new Set();
@@ -13,28 +24,33 @@ const intersection = (setA, setB) => {
   return _intersection;
 }
 
-module.exports = (from, to) => {
-  const toServices = new Set(stations[to].service);
-  const fromServices = new Set(stations[from].service);
-  let intersectionServices = [...intersection(toServices, fromServices)];
-  console.log(intersectionServices);
+const hasValidServiceForRoute = (from, to, services) => {
 
-  var current = stations[from];
-  var changeAt = 'same line';
-  let i = 0;
+}
 
-  while(intersectionServices.length === 0 && i != 10) {
-    console.log('Checking ', current.east);
-    let nextStop = stations[current.east];
-    const nextStopServices = new Set(nextStop.service);
-    intersectionServices = [...intersection(nextStopServices, toServices)];
-    if (intersectionServices.length != 0) {
-      changeAt = current.east;
-      console.log(changeAt);
+const findStationsWithService = (stationFrom, stationTo) => {
+  const stationWithFromService = [];
+  const stationWithToService = [];
+  const stationFromService = stationFrom.service;
+  const stationToService = stationTo.service;
+
+  changingStops.forEach(station => {
+    const changingStopService = new Set(stations[station].service);
+    const stationFromConnectingStop = intersection(new Set(stationFromService), changingStopService);
+    const stationToConnectingStop = intersection(new Set(stationToService), changingStopService);
+
+    if (stationFromConnectingStop.size != 0) {
+      stationWithFromService.push(station);
     }
-    i++;
-    current = nextStop;
-  }
 
-  return changeAt;
+    if (stationToConnectingStop.size != 0) {
+      stationWithToService.push(station);
+    }
+  });
+  return [...intersection(new Set(stationWithFromService), new Set(stationWithToService))];
 };
+
+const stationFrom = stations['ladywell'];
+const stationTo = stations['bury'];
+
+console.log(findStationsWithService(stationFrom, stationTo));
