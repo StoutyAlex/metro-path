@@ -24,10 +24,6 @@ const intersection = (setA, setB) => {
   return _intersection;
 }
 
-const hasValidServiceForRoute = (from, to, services) => {
-
-}
-
 const findStationsWithService = (stationFrom, stationTo) => {
   const stationWithFromService = [];
   const stationWithToService = [];
