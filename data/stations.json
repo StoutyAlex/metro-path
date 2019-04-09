@@ -4,6 +4,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 15,
+      "traffordBar": 18,
+      "cornbrook": 19,
+      "deansgateCastlefield": 20,
+      "stPetersSquare": 21,
+      "piccadillyGardens": 22,
+      "piccadilly": 23,
+      "victoria": 23
+    },
     "east": ["shadowmoss"],
     "west": null,
     "region": "west",
@@ -16,6 +26,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 6,
+      "traffordBar": 9,
+      "cornbrook": 10,
+      "deansgateCastlefield": 11,
+      "stPetersSquare": 12,
+      "piccadillyGardens": 13,
+      "piccadilly": 14,
+      "victoria": 14
+    },
     "east": ["moorRoad"],
     "west": ["roundthorn"],
     "region": "west",
@@ -26,6 +46,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 9,
+      "traffordBar": 12,
+      "cornbrook": 13,
+      "deansgateCastlefield": 14,
+      "stPetersSquare": 15,
+      "piccadillyGardens": 16,
+      "piccadilly": 17,
+      "victoria": 17
+    },
     "east": ["martinscroft"],
     "west": ["crossacres"],
     "region": "west",
@@ -37,6 +67,16 @@
       3,
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 1,
+      "traffordBar": 4,
+      "cornbrook": 5,
+      "deansgateCastlefield": 6,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 8,
+      "piccadilly": 9,
+      "victoria": 9
+    },
     "east": ["stWerburghsRoad"],
     "west": ["saleWaterPark"],
     "region": "west",
@@ -47,6 +87,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 10,
+      "traffordBar": 13,
+      "cornbrook": 14,
+      "deansgateCastlefield": 15,
+      "stPetersSquare": 16,
+      "piccadillyGardens": 17,
+      "piccadilly": 18,
+      "victoria": 18
+    },
     "east": ["benchill"],
     "west": ["wythenshaweTownCentre"],
     "region": "west",
@@ -57,6 +107,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 8,
+      "traffordBar": 11,
+      "cornbrook": 12,
+      "deansgateCastlefield": 13,
+      "stPetersSquare": 14,
+      "piccadillyGardens": 15,
+      "piccadilly": 16,
+      "victoria": 16
+    },
     "east": ["roundthorn"],
     "west": ["benchill"],
     "region": "west",
@@ -67,6 +127,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 5,
+      "traffordBar": 8,
+      "cornbrook": 9,
+      "deansgateCastlefield": 10,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 12,
+      "piccadilly": 13,
+      "victoria": 13
+    },
     "east": ["wythenshawePark"],
     "west": ["baguley"],
     "region": "west",
@@ -77,6 +147,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 3,
+      "traffordBar": 6,
+      "cornbrook": 7,
+      "deansgateCastlefield": 8,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 10,
+      "piccadilly": 11,
+      "victoria": 11
+    },
     "east": ["saleWaterPark"],
     "west": ["wythenshawePark"],
     "region": "west",
@@ -87,6 +167,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 13,
+      "traffordBar": 16,
+      "cornbrook": 17,
+      "deansgateCastlefield": 18,
+      "stPetersSquare": 19,
+      "piccadillyGardens": 20,
+      "piccadilly": 21,
+      "victoria": 21
+    },
     "east": ["robinswoodRoad"],
     "west": ["shadowmoss"],
     "region": "west",
@@ -97,6 +187,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 12,
+      "traffordBar": 15,
+      "cornbrook": 16,
+      "deansgateCastlefield": 17,
+      "stPetersSquare": 18,
+      "piccadillyGardens": 19,
+      "piccadilly": 20,
+      "victoria": 20
+    },
     "east": ["wythenshaweTownCentre"],
     "west": ["peelHall"],
     "region": "west",
@@ -108,6 +208,16 @@
       4,
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 7,
+      "traffordBar": 10,
+      "cornbrook": 11,
+      "deansgateCastlefield": 12,
+      "stPetersSquare": 13,
+      "piccadillyGardens": 14,
+      "piccadilly": 15,
+      "victoria": 15
+    },
     "east": ["baguley"],
     "west": ["martinscroft"],
     "region": "west",
@@ -118,6 +228,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 14,
+      "traffordBar": 17,
+      "cornbrook": 18,
+      "deansgateCastlefield": 19,
+      "stPetersSquare": 20,
+      "piccadillyGardens": 21,
+      "piccadilly": 22,
+      "victoria": 22
+    },
     "east": ["peelHall"],
     "west": ["manchesterAirport"],
     "region": "west",
@@ -128,6 +248,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 2,
+      "traffordBar": 5,
+      "cornbrook": 6,
+      "deansgateCastlefield": 7,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 9,
+      "piccadilly": 10,
+      "victoria": 10
+    },
     "east": ["barlowMoorRoad"],
     "west": ["northernMoor"],
     "region": "west",
@@ -139,6 +269,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 4,
+      "traffordBar": 7,
+      "cornbrook": 8,
+      "deansgateCastlefield": 9,
+      "stPetersSquare": 10,
+      "piccadillyGardens": 11,
+      "piccadilly": 12,
+      "victoria": 12
+    },
     "east": ["northernMoor"],
     "west": ["moorRoad"],
     "region": "west",
@@ -149,6 +289,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 11,
+      "traffordBar": 14,
+      "cornbrook": 15,
+      "deansgateCastlefield": 16,
+      "stPetersSquare": 17,
+      "piccadillyGardens": 18,
+      "piccadilly": 19,
+      "victoria": 19
+    },
     "east": ["crossacres"],
     "west": ["robinswoodRoad"],
     "region": "west",
@@ -160,6 +310,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 11,
+      "traffordBar": 8,
+      "cornbrook": 9,
+      "deansgateCastlefield": 10,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 12,
+      "piccadilly": 13,
+      "victoria": 13
+    },
     "east": ["navigationRoad"],
     "west": null,
     "region": "west",
@@ -174,6 +334,16 @@
       4,
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 8,
+      "traffordBar": 5,
+      "cornbrook": 6,
+      "deansgateCaslefield": 7,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 9,
+      "piccadilly": 10,
+      "victoria": 10
+    },
     "east": ["sale"],
     "west": ["timperley"],
     "region": "west",
@@ -185,6 +355,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 6,
+      "traffordBar": 3,
+      "cornbrook": 4,
+      "deansgateCaslefield": 5,
+      "stPetersSquare": 6,
+      "piccadillyGardens": 7,
+      "piccadilly": 8,
+      "victoria": 8
+    },
     "east": ["stretford"],
     "west": ["sale"],
     "region": "west",
@@ -195,6 +375,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 5,
+      "traffordBar": 2,
+      "cornbrook": 1,
+      "deansgateCastlefield": 0,
+      "stPetersSquare": 1,
+      "piccadillyGardens": 2,
+      "piccadilly": 3,
+      "victoria": 3
+    },
     "east": ["stPetersSquare"],
     "west": ["cornbrook"],
     "region": "west",
@@ -206,6 +396,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 10,
+      "traffordBar": 7,
+      "cornbrook": 8,
+      "deansgateCastlefield": 9,
+      "stPetersSquare": 10,
+      "piccadillyGardens": 11,
+      "piccadilly": 12,
+      "victoria": 12
+    },
     "east": ["timperley"],
     "west": ["altrincham"],
     "region": "west",
@@ -218,6 +418,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 4,
+      "traffordBar": 1,
+      "cornbrook": 2,
+      "deansgateCaslefield": 3,
+      "stPetersSquare": 4,
+      "piccadillyGardens": 5,
+      "piccadilly": 6,
+      "victoria": 6
+    },
     "east": ["traffordBar"],
     "west": ["stretford"],
     "region": "west",
@@ -228,6 +438,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 7,
+      "traffordBar": 4,
+      "cornbrook": 5,
+      "deansgateCaslefield": 6,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 8,
+      "piccadilly": 9,
+      "victoria": 9
+    },
     "east": ["daneRoad"],
     "west": ["brooklands"],
     "region": "west",
@@ -240,6 +460,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 8,
+      "traffordBar": 5,
+      "cornbrook": 4,
+      "deansgateCastlefield": 3,
+      "stPetersSquare": 2,
+      "piccadillyGardens": 2,
+      "piccadilly": 3,
+      "victoria": 1
+    },
     "east": ["victoria"],
     "west": ["marketStreet"],
     "region": "east",
@@ -252,6 +482,16 @@
       3,
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 5,
+      "traffordBar": 2,
+      "cornbrook": 3,
+      "deansgateCaslefield": 4,
+      "stPetersSquare": 5,
+      "piccadillyGardens": 6,
+      "piccadilly": 7,
+      "victoria": 7
+    },
     "east": ["oldTrafford"],
     "west": ["daneRoad"],
     "region": "west",
@@ -262,6 +502,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 3,
+      "traffordBar": 0,
+      "cornbrook": 1,
+      "deansgateCastlefield": 2,
+      "stPetersSquare": 3,
+      "piccadillyGardens": 4,
+      "piccadilly": 5,
+      "victoria": 5
+    },
     "east": ["cornbrook"],
     "west": ["oldTrafford", "firswood"],
     "region": "west",
@@ -272,6 +522,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 9,
+      "traffordBar": 6,
+      "cornbrook": 7,
+      "deansgateCaslefield": 8,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 10,
+      "piccadilly": 11,
+      "victoria": 11
+    },
     "east": ["brooklands"],
     "west": ["navigationRoad"],
     "region": "west",
@@ -282,6 +542,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 8,
+      "traffordBar": 5,
+      "cornbrook": 4,
+      "deansgateCastlefield": 3,
+      "stPetersSquare": 2,
+      "piccadillyGardens": 3,
+      "piccadilly": 4,
+      "victoria": 0
+    },
     "east": ["monsall", "queensRoad"],
     "west": ["shudehill", "exchangeSquare"],
     "region": "east",
@@ -293,6 +563,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 10,
+      "traffordBar": 7,
+      "cornbrook": 6,
+      "deansgateCastlefield": 5,
+      "stPetersSquare": 4,
+      "piccadillyGardens": 5,
+      "piccadilly": 6,
+      "victoria": 2
+    },
     "east": ["crumpsall"],
     "west": ["queensRoad"],
     "region": "east",
@@ -304,6 +584,16 @@
       3,
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 12,
+      "traffordBar": 9,
+      "cornbrook": 8,
+      "deansgateCastlefield": 7,
+      "stPetersSquare": 6,
+      "piccadillyGardens": 7,
+      "piccadilly": 8,
+      "victoria": 4
+    },
     "east": ["heatonPark"],
     "west": ["crumpsall"],
     "region": "east",
@@ -314,6 +604,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 15,
+      "traffordBar": 12,
+      "cornbrook": 11,
+      "deansgateCastlefield": 10,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 10,
+      "piccadilly": 11,
+      "victoria": 7
+    },
     "east": ["whitefield"],
     "west": ["prestwich"],
     "region": "east",
@@ -325,6 +625,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 18,
+      "traffordBar": 15,
+      "cornbrook": 14,
+      "deansgateCastlefield": 13,
+      "stPetersSquare": 12,
+      "piccadillyGardens": 13,
+      "piccadilly": 14,
+      "victoria": 10
+    },
     "east": null,
     "west": ["radcliffe"],
     "region": "east",
@@ -338,6 +648,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 11,
+      "traffordBar": 8,
+      "cornbrook": 7,
+      "deansgateCastlefield": 6,
+      "stPetersSquare": 5,
+      "piccadillyGardens": 6,
+      "piccadilly": 7,
+      "victoria": 3
+    },
     "east": ["bowkerVale"],
     "west": ["abrahamMoss"],
     "region": "east",
@@ -349,6 +669,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 13,
+      "traffordBar": 10,
+      "cornbrook": 9,
+      "deansgateCastlefield": 8,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 8,
+      "piccadilly": 9,
+      "victoria": 5
+    },
     "east": ["prestwich"],
     "west": ["bowkerVale"],
     "region": "east",
@@ -360,6 +690,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 7,
+      "traffordBar": 4,
+      "cornbrook": 3,
+      "deansgateCastlefield": 2,
+      "stPetersSquare": 1,
+      "piccadillyGardens": 1,
+      "piccadilly": 2,
+      "victoria": 2
+    },
     "east": ["shudehill"],
     "west": ["stPetersSquare", "piccadillyGardens"],
     "region": "east",
@@ -370,6 +710,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 7,
+      "traffordBar": 4,
+      "cornbrook": 3,
+      "deansgateCastlefield": 2,
+      "stPetersSquare": 1,
+      "piccadillyGardens": 0,
+      "piccadilly": 1,
+      "victoria": 2
+    },
     "west": ["marketStreet", "stPetersSquare"],
     "east": ["piccadilly"],
     "region": "east",
@@ -382,6 +732,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 8,
+      "traffordBar": 5,
+      "cornbrook": 4,
+      "deansgateCastlefield": 3,
+      "stPetersSquare": 2,
+      "piccadillyGardens": 1,
+      "piccadilly": 0,
+      "victoria": 3
+    },
     "west": ["piccadillyGardens"],
     "east": ["newIslington"],
     "region": "east",
@@ -393,6 +753,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 14,
+      "traffordBar": 11,
+      "cornbrook": 10,
+      "deansgateCastlefield": 9,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 9,
+      "piccadilly": 10,
+      "victoria": 6
+    },
     "east": ["bessesOThBarn"],
     "west": ["heatonPark"],
     "region": "east",
@@ -404,6 +774,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 9,
+      "traffordBar": 6,
+      "cornbrook": 5,
+      "deansgateCastlefield": 4,
+      "stPetersSquare": 3,
+      "piccadillyGardens": 4,
+      "piccadilly": 5,
+      "victoria": 1
+    },
     "east": ["abrahamMoss"],
     "west": ["victoria"],
     "region": "east",
@@ -414,6 +794,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 17,
+      "traffordBar": 14,
+      "cornbrook": 13,
+      "deansgateCastlefield": 12,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 12,
+      "piccadilly": 13,
+      "victoria": 9
+    },
     "east": ["bury"],
     "west": ["whitefield"],
     "region": "east",
@@ -426,6 +816,16 @@
       4,
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 16,
+      "traffordBar": 13,
+      "cornbrook": 12,
+      "deansgateCastlefield": 11,
+      "stPetersSquare": 10,
+      "piccadillyGardens": 11,
+      "piccadilly": 12,
+      "victoria": 8
+    },
     "east": ["radcliffe"],
     "west": ["bessesOThBarn"],
     "region": "east",
@@ -437,6 +837,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 20,
+      "traffordBar": 17,
+      "cornbrook": 16,
+      "deansgateCastlefield": 15,
+      "stPetersSquare": 14,
+      "piccadillyGardens": 13,
+      "piccadilly": 12,
+      "victoria": 16
+    },
     "east": null,
     "west": ["ashtonWest"],
     "region": "east",
@@ -450,6 +860,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 18,
+      "traffordBar": 15,
+      "cornbrook": 14,
+      "deansgateCastlefield": 13,
+      "stPetersSquare": 12,
+      "piccadillyGardens": 11,
+      "piccadilly": 10,
+      "victoria": 14
+    },
     "east": ["ashtonWest"],
     "west": ["audenshaw"],
     "region": "east",
@@ -461,6 +881,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 19,
+      "traffordBar": 16,
+      "cornbrook": 15,
+      "deansgateCastlefield": 14,
+      "stPetersSquare": 13,
+      "piccadillyGardens": 12,
+      "piccadilly": 11,
+      "victoria": 15
+    },
     "east": ["ashtonUnderLyne"],
     "west": ["ashtonMoss"],
     "region": "east",
@@ -472,6 +902,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 17,
+      "traffordBar": 14,
+      "cornbrook": 13,
+      "deansgateCastlefield": 12,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 10,
+      "piccadilly": 9,
+      "victoria": 13
+    },
     "east": ["ashtonMoss"],
     "west": ["droylsden"],
     "region": "east",
@@ -482,6 +922,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 15,
+      "traffordBar": 12,
+      "cornbrook": 11,
+      "deansgateCastlefield": 10,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 8,
+      "piccadilly": 7,
+      "victoria": 11
+    },
     "east": ["droylsden"],
     "west": ["edgeLane"],
     "region": "east",
@@ -492,6 +942,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 13,
+      "traffordBar": 10,
+      "cornbrook": 9,
+      "deansgateCastlefield": 8,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 6,
+      "piccadilly": 5,
+      "victoria": 9
+    },
     "west": ["velopark"],
     "east": ["edgeLane"],
     "region": "east",
@@ -502,6 +962,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 16,
+      "traffordBar": 13,
+      "cornbrook": 12,
+      "deansgateCastlefield": 11,
+      "stPetersSquare": 10,
+      "piccadillyGardens": 9,
+      "piccadilly": 8,
+      "victoria": 12
+    },
     "east": ["audenshaw"],
     "west": ["cemeteryRoad"],
     "region": "east",
@@ -513,6 +983,16 @@
       3,
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 14,
+      "traffordBar": 11,
+      "cornbrook": 10,
+      "deansgateCastlefield": 9,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 7,
+      "piccadilly": 6,
+      "victoria": 10
+    },
     "east": ["cemeteryRoad"],
     "west": ["claytonHall"],
     "region": "east",
@@ -523,6 +1003,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 10,
+      "traffordBar": 7,
+      "cornbrook": 6,
+      "deansgateCastlefield": 5,
+      "stPetersSquare": 4,
+      "piccadillyGardens": 3,
+      "piccadilly": 2,
+      "victoria": 6
+    },
     "west": ["newIslington"],
     "east": ["etihadCampus"],
     "region": "east",
@@ -533,6 +1023,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 9,
+      "traffordBar": 6,
+      "cornbrook": 5,
+      "deansgateCastlefield": 4,
+      "stPetersSquare": 3,
+      "piccadillyGardens": 2,
+      "piccadilly": 1,
+      "victoria": 5
+    },
     "west": ["piccadilly"],
     "east": ["holtTown"],
     "region": "east",
@@ -543,6 +1043,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 11,
+      "traffordBar": 8,
+      "cornbrook": 7,
+      "deansgateCastlefield": 6,
+      "stPetersSquare": 5,
+      "piccadillyGardens": 4,
+      "piccadilly": 3,
+      "victoria": 7
+    },
     "west": ["holtTown"],
     "east": ["velopark"],
     "region": "east",
@@ -553,6 +1063,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 12,
+      "traffordBar": 9,
+      "cornbrook": 8,
+      "deansgateCastlefield": 7,
+      "stPetersSquare": 6,
+      "piccadillyGardens": 5,
+      "piccadilly": 4,
+      "victoria": 8
+    },
     "west": ["etihadCampus"],
     "east": ["claytonHall"],
     "region": "east",
@@ -563,6 +1083,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 8,
+      "traffordBar": 5,
+      "cornbrook": 4,
+      "deansgateCastlefield": 5,
+      "stPetersSquare": 6,
+      "piccadillyGardens": 7,
+      "piccadilly": 8,
+      "victoria": 8
+    },
     "east": ["salfordQuays"],
     "region": "west",
     "line": "Eccles"
@@ -572,7 +1102,17 @@
     "zone": [
       2
     ],
-    "east": ["harbourCity"],
+    "connectingStationStops": {
+      "stWerburghsRoad": 11,
+      "traffordBar": 8,
+      "cornbrook": 7,
+      "deansgateCastlefield": 8,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 10,
+      "piccadilly": 11,
+      "victoria": 11
+    },
+    "east": ["harbourCity", "mediaCityUK"],
     "region": "west",
     "line": "Eccles"
   },
@@ -582,6 +1122,16 @@
       2,
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 4,
+      "traffordBar": 1,
+      "cornbrook": 0,
+      "deansgateCastlefield": 1,
+      "stPetersSquare": 2,
+      "piccadillyGardens": 3,
+      "piccadilly": 4,
+      "victoria": 4
+    },
     "east": ["deansgateCastlefield"],
     "west": ["pomona", "traffordBar"],
     "region": "west",
@@ -592,6 +1142,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 15,
+      "traffordBar": 12,
+      "cornbrook": 11,
+      "deansgateCastlefield": 12,
+      "stPetersSquare": 13,
+      "piccadillyGardens": 14,
+      "piccadilly": 15,
+      "victoria": 15
+    },
     "east": ["ladywell"],
     "west": null,
     "region": "west",
@@ -604,6 +1164,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 6,
+      "traffordBar": 3,
+      "cornbrook": 2,
+      "deansgateCastlefield": 3,
+      "stPetersSquare": 4,
+      "piccadillyGardens": 5,
+      "piccadilly": 6,
+      "victoria": 6
+    },
     "east": ["pomona"],
     "west": ["salfordQuays"],
     "region": "west",
@@ -614,6 +1184,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 7,
+      "traffordBar": 4,
+      "cornbrook": 3,
+      "deansgateCastlefield": 2,
+      "stPetersSquare": 1,
+      "piccadillyGardens": 2,
+      "piccadilly": 3,
+      "victoria": 1
+    },
     "east": ["victoria"],
     "west": ["stPetersSquare"],
     "region": "east",
@@ -624,6 +1204,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 9,
+      "traffordBar": 6,
+      "cornbrook": 5,
+      "deansgateCastlefield": 6,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 8,
+      "piccadilly": 9,
+      "victoria": 9
+    },
     "east": ["anchorage"],
     "west": ["mediaCityUK", "broadway"],
     "region": "west",
@@ -634,6 +1224,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 14,
+      "traffordBar": 11,
+      "cornbrook": 10,
+      "deansgateCastlefield": 11,
+      "stPetersSquare": 12,
+      "piccadillyGardens": 13,
+      "piccadilly": 14,
+      "victoria": 14
+    },
     "west": ["eccles"],
     "east": ["weaste"],
     "region": "west",
@@ -645,6 +1245,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 13,
+      "traffordBar": 10,
+      "cornbrook": 9,
+      "deansgateCastlefield": 10,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 12,
+      "piccadilly": 13,
+      "victoria": 13
+    },
     "east": ["broadway"],
     "region": "west",
     "line": "Eccles"
@@ -654,6 +1264,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 10,
+      "traffordBar": 7,
+      "cornbrook": 6,
+      "deansgateCastlefield": 7,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 9,
+      "piccadilly": 10,
+      "victoria": 10
+    },
     "east": ["harbourCity"],
     "west": null,
     "region": "west",
@@ -665,6 +1285,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 5,
+      "traffordBar": 2,
+      "cornbrook": 1,
+      "deansgateCastlefield": 2,
+      "stPetersSquare": 3,
+      "piccadillyGardens": 4,
+      "piccadilly": 5,
+      "victoria": 5
+    },
     "east": ["cornbrook"],
     "region": "west",
     "line": "Eccles"
@@ -674,6 +1304,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 7,
+      "traffordBar": 4,
+      "cornbrook": 3,
+      "deansgateCastlefield": 4,
+      "stPetersSquare": 5,
+      "piccadillyGardens": 6,
+      "piccadilly": 7,
+      "victoria": 7
+    },
     "east": ["exchangeQuay"],
     "region": "west",
     "line": "Eccles"
@@ -683,6 +1323,16 @@
     "zone": [
       1
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 6,
+      "traffordBar": 3,
+      "cornbrook": 2,
+      "deansgateCastlefield": 1,
+      "stPetersSquare": 0,
+      "piccadillyGardens": 1,
+      "piccadilly": 2,
+      "victoria": 2
+    },
     "east": ["exchangeSquare", "marketStreet", "piccadillyGardens"],
     "west": ["deansgateCastlefield"],
     "region": "west",
@@ -693,6 +1343,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 14,
+      "traffordBar": 11,
+      "cornbrook": 10,
+      "deansgateCastlefield": 11,
+      "stPetersSquare": 12,
+      "piccadillyGardens": 13,
+      "piccadilly": 14,
+      "victoria": 14
+    },
     "east": ["langworthy"],
     "region": "west",
     "line": "Eccles"
@@ -702,6 +1362,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 10,
+      "traffordBar": 7,
+      "cornbrook": 6,
+      "deansgateCastlefield": 5,
+      "stPetersSquare": 4,
+      "piccadillyGardens": 5,
+      "piccadilly": 6,
+      "victoria": 2
+    },
     "east": ["newtonHeathAndMoston"],
     "west": ["monsall"],
     "region": "east",
@@ -713,6 +1383,16 @@
       4,
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 20,
+      "traffordBar": 17,
+      "cornbrook": 16,
+      "deansgateCastlefield": 15,
+      "stPetersSquare": 14,
+      "piccadillyGardens": 15,
+      "piccadilly": 16,
+      "victoria": 12
+    },
     "east": ["shawAndCrompton"],
     "west": ["oldhamMumps"],
     "region": "east",
@@ -724,6 +1404,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 12,
+      "traffordBar": 9,
+      "cornbrook": 8,
+      "deansgateCastlefield": 7,
+      "stPetersSquare": 6,
+      "piccadillyGardens": 7,
+      "piccadilly": 8,
+      "victoria": 4
+    },
     "east": ["hollinwood"],
     "west": ["newtonHeathAndMoston"],
     "region": "east",
@@ -734,6 +1424,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 15,
+      "traffordBar": 12,
+      "cornbrook": 11,
+      "deansgateCastlefield": 10,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 10,
+      "piccadilly": 11,
+      "victoria": 7
+    },
     "east": ["westwood"],
     "west": ["southChadderton"],
     "region": "east",
@@ -744,6 +1444,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 13,
+      "traffordBar": 10,
+      "cornbrook": 9,
+      "deansgateCastlefield": 8,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 8,
+      "piccadilly": 9,
+      "victoria": 5
+    },
     "east": ["southChadderton"],
     "west": ["failsworth"],
     "region": "east",
@@ -756,6 +1466,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 24,
+      "traffordBar": 21,
+      "cornbrook": 20,
+      "deansgateCastlefield": 19,
+      "stPetersSquare": 18,
+      "piccadillyGardens": 19,
+      "piccadilly": 20,
+      "victoria": 16
+    },
     "east": ["newbold"],
     "west": ["milnrow"],
     "region": "east",
@@ -766,6 +1486,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 23,
+      "traffordBar": 20,
+      "cornbrook": 19,
+      "deansgateCastlefield": 18,
+      "stPetersSquare": 17,
+      "piccadillyGardens": 18,
+      "piccadilly": 19,
+      "victoria": 15
+    },
     "east": ["kingswayBusinessPark"],
     "west": ["newhey"],
     "region": "east",
@@ -777,6 +1507,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 9,
+      "traffordBar": 6,
+      "cornbrook": 5,
+      "deansgateCastlefield": 4,
+      "stPetersSquare": 3,
+      "piccadillyGardens": 4,
+      "piccadilly": 5,
+      "victoria": 1
+    },
     "east": ["centralPark"],
     "west": ["victoria"],
     "region": "east",
@@ -787,6 +1527,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 25,
+      "traffordBar": 22,
+      "cornbrook": 21,
+      "deansgateCastlefield": 20,
+      "stPetersSquare": 19,
+      "piccadillyGardens": 20,
+      "piccadilly": 21,
+      "victoria": 17
+    },
     "east": ["rochdaleRailwayStation"],
     "west": ["kingswayBusinessPark"],
     "region": "east",
@@ -797,6 +1547,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 22,
+      "traffordBar": 19,
+      "cornbrook": 18,
+      "deansgateCastlefield": 17,
+      "stPetersSquare": 16,
+      "piccadillyGardens": 17,
+      "piccadilly": 18,
+      "victoria": 14
+    },
     "east": ["milnrow"],
     "west": ["shawAndCrompton"],
     "region": "east",
@@ -808,6 +1568,16 @@
       3,
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 11,
+      "traffordBar": 8,
+      "cornbrook": 7,
+      "deansgateCastlefield": 6,
+      "stPetersSquare": 5,
+      "piccadillyGardens": 6,
+      "piccadilly": 7,
+      "victoria": 3
+    },
     "east": ["failsworth"],
     "west": ["centralPark"],
     "region": "east",
@@ -818,6 +1588,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 18,
+      "traffordBar": 15,
+      "cornbrook": 14,
+      "deansgateCastlefield": 13,
+      "stPetersSquare": 12,
+      "piccadillyGardens": 13,
+      "piccadilly": 14,
+      "victoria": 10
+    },
     "east": ["oldhamMumps"],
     "west": ["oldhamKingStreet"],
     "region": "east",
@@ -828,6 +1608,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 17,
+      "traffordBar": 14,
+      "cornbrook": 13,
+      "deansgateCastlefield": 12,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 12,
+      "piccadilly": 13,
+      "victoria": 9
+    },
     "east": ["oldhamCentral"],
     "west": ["westwood"],
     "region": "east",
@@ -838,6 +1628,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 19,
+      "traffordBar": 16,
+      "cornbrook": 15,
+      "deansgateCastlefield": 14,
+      "stPetersSquare": 13,
+      "piccadillyGardens": 14,
+      "piccadilly": 15,
+      "victoria": 11
+    },
     "east": ["derker"],
     "west": ["oldhamCentral"],
     "region": "east",
@@ -851,6 +1651,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 26,
+      "traffordBar": 23,
+      "cornbrook": 22,
+      "deansgateCastlefield": 21,
+      "stPetersSquare": 20,
+      "piccadillyGardens": 21,
+      "piccadilly": 22,
+      "victoria": 18
+    },
     "east": ["rochdaleTownCentre"],
     "west": ["newbold"],
     "region": "east",
@@ -864,6 +1674,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 27,
+      "traffordBar": 24,
+      "cornbrook": 23,
+      "deansgateCastlefield": 22,
+      "stPetersSquare": 21,
+      "piccadillyGardens": 22,
+      "piccadilly": 23,
+      "victoria": 19
+    },
     "east": null,
     "west": ["rochdaleRailwayStation"],
     "region": "east",
@@ -875,6 +1695,16 @@
     "zone": [
       4
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 21,
+      "traffordBar": 18,
+      "cornbrook": 17,
+      "deansgateCastlefield": 16,
+      "stPetersSquare": 15,
+      "piccadillyGardens": 16,
+      "piccadilly": 17,
+      "victoria": 13
+    },
     "east": ["newhey"],
     "west": ["derker"],
     "region": "east",
@@ -886,6 +1716,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 14,
+      "traffordBar": 11,
+      "cornbrook": 10,
+      "deansgateCastlefield": 9,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 9,
+      "piccadilly": 10,
+      "victoria": 6
+    },
     "east": ["freehold"],
     "west": ["hollinwood"],
     "region": "east",
@@ -896,6 +1736,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 16,
+      "traffordBar": 13,
+      "cornbrook": 12,
+      "deansgateCastlefield": 11,
+      "stPetersSquare": 10,
+      "piccadillyGardens": 11,
+      "piccadilly": 12,
+      "victoria": 8
+    },
     "east": ["oldhamKingStreet"],
     "west": ["freehold"],
     "region": "east",
@@ -906,6 +1756,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 2,
+      "traffordBar": 5,
+      "cornbrook": 6,
+      "deansgateCaslefield": 7,
+      "stPetersSquare": 8,
+      "piccadillyGardens": 9,
+      "piccadilly": 10,
+      "victoria": 10
+    },
     "east": ["withington"],
     "west": ["westDidsbury"],
     "region": "west",
@@ -916,6 +1776,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 1,
+      "traffordBar": 2,
+      "cornbrook": 3,
+      "deansgateCastlefield": 4,
+      "stPetersSquare": 5,
+      "piccadillyGardens": 6,
+      "piccadilly": 7,
+      "victoria": 7
+    },
     "east": ["firswood"],
     "west": ["stWerburghsRoad"],
     "region": "west",
@@ -926,6 +1796,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 4,
+      "traffordBar": 7,
+      "cornbrook": 8,
+      "deansgateCaslefield": 9,
+      "stPetersSquare": 10,
+      "piccadillyGardens": 11,
+      "piccadilly": 12,
+      "victoria": 12
+    },
     "east": ["westDidsbury"],
     "west": ["eastDidsbury"],
     "region": "west",
@@ -936,6 +1816,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 5,
+      "traffordBar": 8,
+      "cornbrook": 9,
+      "deansgateCaslefield": 10,
+      "stPetersSquare": 11,
+      "piccadillyGardens": 12,
+      "piccadilly": 13,
+      "victoria": 13
+    },
     "east": ["didsburyVillage"],
     "west": null,
     "region": "west",
@@ -949,6 +1839,16 @@
     "zone": [
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 2,
+      "traffordBar": 1,
+      "cornbrook": 2,
+      "deansgateCastlefield": 3,
+      "stPetersSquare": 4,
+      "piccadillyGardens": 5,
+      "piccadilly": 6,
+      "victoria": 6
+    },
     "east": ["traffordBar"],
     "west": ["chorlton"],
     "region": "west",
@@ -960,6 +1860,16 @@
       3,
       2
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 0,
+      "traffordBar": 3,
+      "cornbrook": 4,
+      "deansgateCastlefield": 5,
+      "stPetersSquare": 6,
+      "piccadillyGardens": 7,
+      "piccadilly": 8,
+      "victoria": 8
+    },
     "east": ["chorlton"],
     "west": ["withington", "barlowMoorRoad"],
     "region": "west",
@@ -970,8 +1880,18 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 3,
+      "traffordBar": 6,
+      "cornbrook": 7,
+      "deansgateCaslefield": 8,
+      "stPetersSquare": 9,
+      "piccadillyGardens": 10,
+      "piccadilly": 11,
+      "victoria": 11
+    },
     "east": ["burtonRoad"],
-    "west": ["westDidsbury"],
+    "west": ["didsburyVillage"],
     "region": "west",
     "line": "South Manchester"
   },
@@ -980,6 +1900,16 @@
     "zone": [
       3
     ],
+    "connectingStationStops": {
+      "stWerburghsRoad": 1,
+      "traffordBar": 4,
+      "cornbrook": 5,
+      "deansgateCaslefield": 6,
+      "stPetersSquare": 7,
+      "piccadillyGardens": 8,
+      "piccadilly": 9,
+      "victoria": 9
+    },
     "east": ["stWerburghsRoad"],
     "west": ["burtonRoad"],
     "region": "west",
