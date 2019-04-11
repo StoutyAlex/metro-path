@@ -1,7 +1,6 @@
 const _ = require('lodash');
 
 const stations = require('../data/stations');
-const services = require('../data/services');
 
 const changingStops = [
   "cornbrook",
@@ -46,7 +45,32 @@ const findStationsWithService = (stationFrom, stationTo) => {
   return [...intersection(new Set(stationWithFromService), new Set(stationWithToService))];
 };
 
-const stationFrom = stations['ladywell'];
-const stationTo = stations['bury'];
+const stationFromName = 'chorlton';
+const stationToName = 'chorlton';
 
-console.log(findStationsWithService(stationFrom, stationTo));
+const stationFrom = stations[stationFromName];
+const stationTo = stations[stationToName];
+
+const stopToTake = findStationsWithService(stationFrom, stationTo).map(station => {
+  const mappedStation = {};
+  mappedStation.stops = stationFrom.connectingStationStops[station];
+  mappedStation.name = station;
+  return mappedStation;
+}).sort((station1, station2) => {
+  if (station1.stops > station2.stops) return 1;
+  if (station1.stops < station2.stops) return -1;
+  return 0
+});
+
+
+const stopsFromChangingStation = stationTo.connectingStationStops[stopToTake[0].name];
+
+const result = {
+  startLocation: stationFromName,
+  endLocation: stationToName,
+  changeAt: stopToTake[0].name,
+  stopsTillChange: stopToTake[0].stops,
+  stopsAfterChange: stopsFromChangingStation,
+};
+
+console.log(result);
