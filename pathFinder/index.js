@@ -1,4 +1,4 @@
-const stations = require('../data/stations');
+const getStations = require('../data/getStations');
 
 const changingStops = [
   "cornbrook",
@@ -25,7 +25,7 @@ const isStationOnSameLine = (stationFrom, stationTo) => (
   intersection(new Set(stationFrom.service), new Set(stationTo.service)).size >= 1
 );
 
-const findStationsWithService = (stationFrom, stationTo) => {
+const findStationsWithService = (stationFrom, stationTo, stations) => {
   const stationWithFromService = [];
   const stationWithToService = [];
   const stationFromService = stationFrom.service;
@@ -47,11 +47,13 @@ const findStationsWithService = (stationFrom, stationTo) => {
   return [...intersection(new Set(stationWithFromService), new Set(stationWithToService))];
 };
 
-module.exports = (to, from) => {
+module.exports = async (to, from) => {
+  const stations = await getStations();
+
   const stationFrom = stations[from];
   const stationTo = stations[to];
 
-  const stopToTake = findStationsWithService(stationFrom, stationTo).map(station => {
+  const stopToTake = findStationsWithService(stationFrom, stationTo, stations).map(station => {
     const mappedStation = {};
     mappedStation.stops = stationFrom.connectingStationStops[station];
     mappedStation.name = station;
@@ -79,6 +81,5 @@ module.exports = (to, from) => {
     result.stopsAfterChange = 0;
   }
 
-  console.log(result);
   return result;
 };
