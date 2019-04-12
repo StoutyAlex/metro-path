@@ -1,3 +1,5 @@
+const _ = require('lodash');
+
 const stations = require('../data/stations');
 
 const changingStops = [
@@ -19,11 +21,7 @@ const intersection = (setA, setB) => {
       }
   }
   return _intersection;
-};
-
-const isStationOnSameLine = (stationFrom, stationTo) => (
-  intersection(new Set(stationFrom.service), new Set(stationTo.service)).size >= 1
-);
+}
 
 const findStationsWithService = (stationFrom, stationTo) => {
   const stationWithFromService = [];
@@ -47,38 +45,31 @@ const findStationsWithService = (stationFrom, stationTo) => {
   return [...intersection(new Set(stationWithFromService), new Set(stationWithToService))];
 };
 
-module.exports = (to, from) => {
-  const stationFrom = stations[from];
-  const stationTo = stations[to];
+const stationFromName = 'ladywell';
+const stationToName = 'ashtonUnderLyne';
 
-  const stopToTake = findStationsWithService(stationFrom, stationTo).map(station => {
-    const mappedStation = {};
-    mappedStation.stops = stationFrom.connectingStationStops[station];
-    mappedStation.name = station;
-    return mappedStation;
-  }).sort((station1, station2) => {
-    if (station1.stops > station2.stops) return 1;
-    if (station1.stops < station2.stops) return -1;
-    return 0
-  });
+const stationFrom = stations[stationFromName];
+const stationTo = stations[stationToName];
 
-  const stopsFromChangingStation = stationTo.connectingStationStops[stopToTake[0].name];
+const stopToTake = findStationsWithService(stationFrom, stationTo).map(station => {
+  const mappedStation = {};
+  mappedStation.stops = stationFrom.connectingStationStops[station];
+  mappedStation.name = station;
+  return mappedStation;
+}).sort((station1, station2) => {
+  if (station1.stops > station2.stops) return 1;
+  if (station1.stops < station2.stops) return -1;
+  return 0
+});
 
-  const result = {
-    startLocation: from,
-    endLocation: to,
-    changeAt: stopToTake[0].name,
-    stopsTillChange: stopToTake[0].stops,
-    stopsAfterChange: stopsFromChangingStation,
-  };
+const stopsFromChangingStation = stationTo.connectingStationStops[stopToTake[0].name];
 
-  if (isStationOnSameLine(stationFrom, stationTo)) {
-    result.changeAt = null,
-    result.totalStops = result.stopsTillChange + result.stopsAfterChange;
-    result.stopsTillChange = 0;
-    result.stopsAfterChange = 0;
-  }
-
-  console.log(result);
-  return result;
+const result = {
+  startLocation: stationFromName,
+  endLocation: stationToName,
+  changeAt: stopToTake[0].name,
+  stopsTillChange: stopToTake[0].stops,
+  stopsAfterChange: stopsFromChangingStation,
 };
+
+console.log(result);
