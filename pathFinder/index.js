@@ -1,4 +1,4 @@
-const getStations = require('../data/getStations');
+const getStations = require('../util/getStations');
 
 const changingStops = [
   "cornbrook",
