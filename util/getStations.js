@@ -13,7 +13,7 @@ const environment = process.env.ENV;
 module.exports = () => {
   if (environment == 'dev') {
     return new Promise((resolve, reject) => {
-      resolve(JSON.parse(fs.readFileSync(appDir + '/stations.json', 'utf8')));
+      resolve(JSON.parse(fs.readFileSync(appDir + '/../data/stations.json', 'utf8')));
     });
   } else {
     return new Promise((resolve, reject) => {
