@@ -3,7 +3,8 @@ const headers = {
   'access-control-allow-headers': 'Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token',
   'access-control-allow-methods': 'DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT',
   'access-control-allow-origin': '*',
-}
+  'Content-Type': 'application/json',
+};
 
 module.exports = {
   send: (callback, data) => callback(null, {
